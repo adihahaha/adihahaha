@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on implementation of machine learning algorithms, data analytics projects.
 - 📫 Reach me on karnaaditya@yahoo.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am almost always available to talk.
+- ⚡ Fun fact: You can't comb your hair flat on a sphere without creating a cowlick!
 
 <!---
 adihahaha/adihahaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
